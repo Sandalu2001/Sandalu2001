@@ -1,7 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Sandalu De Silva</h1>
 <h3 align="center">A passionate and ambitious undergraduate student in software engineering. I am interested in web development and iOS development</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🔭 I’m currently working on [Personalized Movie Recommendation System Using Real-time mood and social media analysis](https://github.com/kawshan-M/whatchflix.git)
 
